@@ -1,4 +1,4 @@
-# Reinforcement Learning Algorithms' Empirical Analysis
+# Reinforcement Learning Algorithms' Empirical Analysis (using descriptive statistics)
 
 Research on the comparative analysis of reinforcement learning algorithms including SARSA, Q-learning and Proximal Policy Optimization in addition to benchamrks which includes dynamic programming, value iteration and nested-benders' decoposition using a disaser response resource allocation environment model.
 
