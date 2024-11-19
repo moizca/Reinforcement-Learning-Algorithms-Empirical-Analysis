@@ -2,8 +2,6 @@
 
 Research on the comparative analysis of reinforcement learning algorithms including SARSA, Q-learning and Proximal Policy Optimization in addition to benchamrks which includes dynamic programming, value iteration and nested-benders' decoposition using a disaser response resource allocation environment model.
 
-The research paper is taken from my masters thesis for MSc. Engineering Management degree.
-
 Please note that we are continuing to work on this repository to extend and improve the used DRL methodology in terms of sample efficiency. As such, the code in the current branch may not reflect the code submitted with the original paper. We will keep the paper branch frozen with the code from the original paper, and only update it as needed to fix bugs.
 
 
@@ -21,7 +19,7 @@ Colleborations are always welcome for any valid extension of this work!
 
 I am specifically interested in deep learning based multi-stage optimization algorithms and their applications for solving complex transporation problems.
 ## 🚀 About Me
-I am a civil engineer and a researcher in transportation engineering and logistics...
+I am an engineer and a researcher in transportation engineering and logistics...
 
 
 ## Installation
